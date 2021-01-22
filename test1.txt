@@ -1,10 +1,1 @@
- Volume in drive C is OSDisk
- Volume Serial Number is 0652-C793
-
- Directory of C:\Users\akangg\OneDrive - AMDOCS\Backup Folders\Desktop\My folder
-
-01/22/2021  10:25 AM    <DIR>          .
-01/22/2021  10:25 AM    <DIR>          ..
-01/22/2021  10:25 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  60,361,834,496 bytes free
+change1
